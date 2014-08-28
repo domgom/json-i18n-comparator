@@ -4,3 +4,4 @@ json-comparator/node_modules/
 .idea/
 coverage/
 node_modules/
+npm-debug.log
