@@ -1,6 +1,6 @@
 {
     "name": "json-i18n-comparator",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Picks two json files full of i18n keys and found missing keys in both files",
     "main": "index.js",
     "scripts": {

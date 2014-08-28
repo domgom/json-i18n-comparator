@@ -14,12 +14,15 @@ if (process.argv[2] != undefined && process.argv[3] != undefined) {
 comparator.traverse(a, b);
 view(a,b);
 
+function print(a) {
+    return JSON.stringify(a,null,"\t");
+}
 function view(a, b) {
     console.log("\n\n\n");
     console.log("a contains:\n===========");
-    console.log(JSON.stringify(a));
+    console.log(print(a));
     console.log("b contains:\n===========");
-    console.log(JSON.stringify(b));
+    console.log(print(b));
 }
 
 
