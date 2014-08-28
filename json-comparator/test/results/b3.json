@@ -1,0 +1,7 @@
+{"checkout": {
+    "payment": {
+        "error": {
+            "expriyMonth": "The expiry month is empty, please review and amend"
+        }
+    }
+}}

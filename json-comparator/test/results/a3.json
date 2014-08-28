@@ -1,0 +1,30 @@
+{"common": {
+    "home": "Home"
+}, "search": {
+    "seoHolidaysFound": "{0} holidays found"
+}, "accom": {
+    "noDataForDatesInPriceList": "Error we don't have a match in our data for dates in the price list"
+}, "checkout": {
+    "payment": {
+        "error": {
+            "expiryMonth": "The expiry month is empty, please review and amend"
+        }
+    }
+}, "customise": {
+    "extras": {
+        "viewInflightMenuLink": "View our in-flight menu",
+        "CYS": {
+            "includedMessage": "Choose your seat is already included."
+        },
+        "IFM": {
+            "footerDescription": "<em>Created by James Martin. Only on Thomas Cook</em>"
+        }
+    }
+}, "myaccount": {
+    "alerts": {
+        "emailWishlist-success": {
+            "title": "Email has been sent",
+            "content": "If you have sent the email to yourself please check your inbox. This could be in your junk folder."
+        }
+    }
+}}

@@ -1,0 +1,9 @@
+{
+    "prop-only-b" : {
+		"nested-only-b": "b"
+	},
+    "almost-common" : {
+		"val common" : "common",
+		"val b" : "b"
+	}
+}

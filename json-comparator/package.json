@@ -1,0 +1,28 @@
+{
+    "name": "json-i18n-comparator",
+    "version": "0.0.1",
+    "description": "Picks two json files full of i18n keys and found missing keys in both files",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha",
+        "coverage": "istanbul cover node_modules/mocha/bin/_mocha -- -R spec"
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/domgom/json-i18n-comparator.git"
+    },
+    "keywords": [
+        "test"
+    ],
+    "author": "Domingo Gomez",
+    "license": "ASF2",
+    "bugs": {
+        "url": "https://github.com/domgom/json-i18n-comparator.git/issues"
+    },
+    "homepage": "https://github.com/domgom/json-i18n-comparator",
+    "devDependencies": {
+        "mocha": "~1.21.4",
+        "istanbul": "~0.3.0"
+    }
+}
