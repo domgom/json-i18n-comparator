@@ -5,12 +5,7 @@
  */
 module.exports = { traverse: traverse}
 
-function traverse(a,b){
-    traverseOne(a, b);
-    traverseOne(b, a);
-}
-
-function traverseOne(a, b) {
+function traverse(a, b) {
 
     for (var key in a) {
         //    console.log(key + "(" + typeof key + ")" + " is key in A");
